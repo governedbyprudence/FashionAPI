@@ -9,11 +9,17 @@ Read API documentation for more info.
 Base URL : /api
 # Data to choose from :
 shirt_colors = [Black , Maroon, Green, Deep Green, Brown, Blue, Yellow, Deep violet, Deep Blue]
+
 pant_colors = [white, khaki, Light Blue, Light Green, grey]
+
 shirts = [polo-tshirt,  henley-tshirt, collar-shirt, no-collar-shirt]
+
 pants = [jeans ,chinos]
+
 accessories = [brown-watch, brown-shoes, white-shoes]
+
 place = [party, date, hangout ]
+
 gender = [male, female, unisex]
 # GET REQUEST OPTIONS :
 type
